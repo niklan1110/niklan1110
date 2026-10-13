@@ -7,7 +7,7 @@
 </picture>
 
 <a href="https://github.com/niklan1110">
-  <img alt="Self-hosted backends · AI agents you can watch · voice assistants that pick up the phone" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=F0883E&center=true&vCenter=true&width=640&lines=Self-hosted+backends+that+speak+Supabase;AI+agents+you+can+watch+at+work;Voice+assistants+that+pick+up+the+phone">
+  <img alt="Private file tools · self-hosted backends · AI agents you can watch · voice assistants that pick up the phone" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=F0883E&center=true&vCenter=true&width=640&lines=Private+file+tools+that+never+leave+your+machine;Self-hosted+backends+that+speak+Supabase;AI+agents+you+can+watch+at+work;Voice+assistants+that+pick+up+the+phone">
 </a>
 
 </div>
@@ -15,6 +15,24 @@
 ## 🛠️ What I'm building
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/niklan1110/filex-app">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niklan1110/filex-app/HEAD/docs/media/banner-dark.svg">
+          <img alt="FileX" src="https://raw.githubusercontent.com/niklan1110/filex-app/HEAD/docs/media/banner-light.svg" width="100%">
+        </picture>
+      </a>
+      <h3><a href="https://github.com/niklan1110/filex-app">FileX</a></h3>
+      Your paper, your computer. A private toolkit for PDF, Office, ebooks, images and scans: merge, split, compress, convert, OCR, sign and encrypt, in one web UI with a REST API. Runs in Docker on your own machine, with no account and no cloud.
+      <br><br>
+      <img alt="Python 3.12" src="https://img.shields.io/badge/Python_3.12-3776AB?style=flat-square&logo=python&logoColor=white">
+      <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+      <img alt="React + Vite" src="https://img.shields.io/badge/React_%2B_Vite-646CFF?style=flat-square&logo=vite&logoColor=white">
+      <img alt="Docker Compose" src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white">
+      <img alt="30 tools" src="https://img.shields.io/badge/tools-30-a8d5f2?style=flat-square">
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/niklan1110/keel">
@@ -52,7 +70,7 @@
 ## 🧰 Toolbox
 
 <p align="center">
-  <img alt="TypeScript, JavaScript, Python, Node.js, Deno, React, three.js, PostgreSQL, Docker, Linux, Bash, Git, GitHub Actions, VS Code" src="https://skillicons.dev/icons?i=ts,js,py,nodejs,deno,react,threejs,postgres,docker,linux,bash,git,githubactions,vscode&perline=14">
+  <img alt="TypeScript, JavaScript, Python, FastAPI, Node.js, Deno, React, Vite, three.js, PostgreSQL, Docker, Linux, Bash, Git, GitHub Actions, VS Code" src="https://skillicons.dev/icons?i=ts,js,py,fastapi,nodejs,deno,react,vite,threejs,postgres,docker,linux,bash,git,githubactions,vscode&perline=16">
 </p>
 
 ## 📈 Activity

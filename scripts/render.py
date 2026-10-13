@@ -20,7 +20,7 @@ INFO = [
     ("Shell", "TypeScript · Python · SQL · Bash"),
     ("Infra", "Docker · Postgres · Linux · homelab"),
     ("AI", "Claude Code · agents · voice pipelines"),
-    ("Now", "Keel · Agent Office · a voice assistant"),
+    ("Now", "FileX · Keel · Agent Office"),
     ("Motto", "own your machine, own your data"),
     ("rule", ""),
     ("Repos", "github.com/niklan1110"),

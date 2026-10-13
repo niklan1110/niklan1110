@@ -47,7 +47,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',mo
 <text x="394.8" y="154"><tspan fill="#f0883e" font-weight="bold">Shell</tspan><tspan fill="#e6edf3">: TypeScript · Python · SQL · Bash</tspan></text>
 <text x="394.8" y="173"><tspan fill="#f0883e" font-weight="bold">Infra</tspan><tspan fill="#e6edf3">: Docker · Postgres · Linux · homelab</tspan></text>
 <text x="394.8" y="192"><tspan fill="#f0883e" font-weight="bold">AI</tspan><tspan fill="#e6edf3">: Claude Code · agents · voice pipelines</tspan></text>
-<text x="394.8" y="211"><tspan fill="#f0883e" font-weight="bold">Now</tspan><tspan fill="#e6edf3">: Keel · Agent Office · a voice assistant</tspan></text>
+<text x="394.8" y="211"><tspan fill="#f0883e" font-weight="bold">Now</tspan><tspan fill="#e6edf3">: FileX · Keel · Agent Office</tspan></text>
 <text x="394.8" y="230"><tspan fill="#f0883e" font-weight="bold">Motto</tspan><tspan fill="#e6edf3">: own your machine, own your data</tspan></text>
 <text x="394.8" y="249" fill="#7d8590">────────────────────────────────────────────</text>
 <text x="394.8" y="268"><tspan fill="#f0883e" font-weight="bold">Repos</tspan><tspan fill="#e6edf3">: github.com/niklan1110</tspan></text>
