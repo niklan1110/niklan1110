@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="369" viewBox="0 0 900 369" role="img" aria-label="nick@github profile card">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;white-space:pre}
+.a{font-size:9px;font-weight:bold}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}
+</style>
+<rect x=".5" y=".5" width="899" height="368" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="28" cy="22" r="6" fill="#ff5f57"/>
+<circle cx="48" cy="22" r="6" fill="#febc2e"/>
+<circle cx="68" cy="22" r="6" fill="#28c840"/>
+<text x="450.0" y="27" fill="#7d8590" text-anchor="middle">nick@github: ~ — neofetch</text>
+<text class="a" x="28" y="62" fill="#79c0ff"></text>
+<text class="a" x="28" y="71" fill="#79c0ff"></text>
+<text class="a" x="28" y="80" fill="#79c0ff">                   +++==+++++</text>
+<text class="a" x="28" y="89" fill="#79c0ff">                  =------==++*++</text>
+<text class="a" x="28" y="98" fill="#79c0ff">                +-:::::---==++***+</text>
+<text class="a" x="28" y="107" fill="#79c0ff">                -:::::::-----=====-   =+++</text>
+<text class="a" x="28" y="116" fill="#79c0ff">                ::..........::::-------===</text>
+<text class="a" x="28" y="125" fill="#79c0ff">           =+  =. ....:--====+++*########**</text>
+<text class="a" x="28" y="134" fill="#79c0ff">         -:::...:--=+++***#######%%%%%%@@@%</text>
+<text class="a" x="28" y="143" fill="#79c0ff">           -:-=+*****###*#########%%%%%%%@@@@%</text>
+<text class="a" x="28" y="152" fill="#79c0ff">            *###**+===+#####***###*+=+#%%%%@%%@%</text>
+<text class="a" x="28" y="161" fill="#79c0ff">          %%%##*=:   .:+*##***###=-. .:#%%%%%%%%@@%</text>
+<text class="a" x="28" y="170" fill="#79c0ff">      #%%%%%##**-..::=+*####%%%%%##*+=*%%%%%%%%%%%%%=</text>
+<text class="a" x="28" y="179" fill="#79c0ff">      %%%%%##**####%%%%%%%%###%%%%%%%%%%%%%%%%%%%%%#</text>
+<text class="a" x="28" y="188" fill="#79c0ff">       #######%%%%%#####+-::::-+#####%%%%%%%%%%%%%@@%</text>
+<text class="a" x="28" y="197" fill="#79c0ff">        ##%#%%%%###*****:      :*##****##%%%%%%%%%%@@%</text>
+<text class="a" x="28" y="206" fill="#79c0ff">        ########**+++====:....-+*+++===+*#%%%%%%%%%%%%%</text>
+<text class="a" x="28" y="215" fill="#79c0ff">        %######**+==--:.::::::--::+**++*+*####%%%%%%%%%</text>
+<text class="a" x="28" y="224" fill="#79c0ff">     %%@%###******+++==-::::.::::+****#######%%%%%%%%%%%</text>
+<text class="a" x="28" y="233" fill="#79c0ff">   %@@%%%%%###*##***++=-::--:----=***#######%%%%%%%%%%%%</text>
+<text class="a" x="28" y="242" fill="#79c0ff">   *%%%%%%%%#####*****+----------+#**########%%%%%%%%%%%%</text>
+<text class="a" x="28" y="251" fill="#79c0ff">     #%%%%%%#####******+===-----=*############%%%%%%%%%%%</text>
+<text class="a" x="28" y="260" fill="#79c0ff">      %%%%%######*******++==--=+****#########%#%##%%%%%%%%</text>
+<text class="a" x="28" y="269" fill="#79c0ff">     %%%%%######*********-  =****##**##############%%%%%%%</text>
+<text class="a" x="28" y="278" fill="#79c0ff">      *%%######********+:.= :*****##****###########%%%%%%%#</text>
+<text class="a" x="28" y="287" fill="#79c0ff">       ########****+++-.:==. =+++++++++++==+*#####%##%%%%%</text>
+<text class="a" x="28" y="296" fill="#79c0ff">        ###*****++**+:.:.      .:..::.:..:..-*#########%</text>
+<text class="a" x="28" y="305" fill="#79c0ff">        -==-==++++++- :.  .      .  ....   ..=++*#**+=</text>
+<text class="a" x="28" y="314" fill="#79c0ff">            :::--:::.   ..... ..  . ..         +*+++=-</text>
+<text class="a" x="28" y="323" fill="#79c0ff">                               .   . .            --:</text>
+<text class="a" x="28" y="332" fill="#79c0ff">                                 ...</text>
+<text x="394.8" y="97" fill="#3fb950" font-weight="bold">nick@github</text>
+<text x="394.8" y="116" fill="#7d8590">────────────────────────────────────────────</text>
+<text x="394.8" y="135"><tspan fill="#f0883e" font-weight="bold">Role</tspan><tspan fill="#e6edf3">: builder of self-hosted tools &amp; AI agents</tspan></text>
+<text x="394.8" y="154"><tspan fill="#f0883e" font-weight="bold">Shell</tspan><tspan fill="#e6edf3">: TypeScript · Python · SQL · Bash</tspan></text>
+<text x="394.8" y="173"><tspan fill="#f0883e" font-weight="bold">Infra</tspan><tspan fill="#e6edf3">: Docker · Postgres · Linux · homelab</tspan></text>
+<text x="394.8" y="192"><tspan fill="#f0883e" font-weight="bold">AI</tspan><tspan fill="#e6edf3">: Claude Code · agents · voice pipelines</tspan></text>
+<text x="394.8" y="211"><tspan fill="#f0883e" font-weight="bold">Now</tspan><tspan fill="#e6edf3">: Keel · Agent Office · a voice assistant</tspan></text>
+<text x="394.8" y="230"><tspan fill="#f0883e" font-weight="bold">Motto</tspan><tspan fill="#e6edf3">: own your machine, own your data</tspan></text>
+<text x="394.8" y="249" fill="#7d8590">────────────────────────────────────────────</text>
+<text x="394.8" y="268"><tspan fill="#f0883e" font-weight="bold">Repos</tspan><tspan fill="#e6edf3">: github.com/niklan1110</tspan></text>
+<rect x="394.8" y="275" width="24" height="14" rx="2" fill="#f85149"/>
+<rect x="420.8" y="275" width="24" height="14" rx="2" fill="#f0883e"/>
+<rect x="446.8" y="275" width="24" height="14" rx="2" fill="#d29922"/>
+<rect x="472.8" y="275" width="24" height="14" rx="2" fill="#3fb950"/>
+<rect x="498.8" y="275" width="24" height="14" rx="2" fill="#58a6ff"/>
+<rect x="524.8" y="275" width="24" height="14" rx="2" fill="#bc8cff"/>
+<rect x="550.8" y="275" width="24" height="14" rx="2" fill="#ff7b72"/>
+<rect x="576.8" y="275" width="24" height="14" rx="2" fill="#8b949e"/>
+<rect class="cur" x="608.8" y="275" width="9" height="16" fill="#e6edf3"/>
+</svg>
